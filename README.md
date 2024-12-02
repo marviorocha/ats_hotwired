@@ -9,7 +9,7 @@ This is a modern Applicant Tracking System (ATS) built using Ruby on Rails and H
 - **Ruby on Rails 7.x**
 - **Hotwire (Turbo & Stimulus)**
 - **Hotwired Turbo Streams**
-- **Stimulus Reflex and Cable Ready**
+- **Stimulus Reflex and CableReady**
 - **PostgreSQL**
 - **Tailwind CSS**
 
